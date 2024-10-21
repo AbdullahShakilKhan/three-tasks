@@ -1,0 +1,48 @@
+
+body{
+    border: 2px solid black;
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+    letter-spacing: 0.15em;
+    width: 50%;
+    margin: auto;
+    margin-top: 200px;
+    height: 450px;
+    
+    
+}
+
+.logo{
+    margin: 20px;
+}
+
+nav {
+    padding-top: 10px;
+    border-top: 2px solid black;
+    border-bottom: 1px solid black;
+    padding: 15px;
+    width: 570px;
+    margin: auto;
+    
+    
+}
+
+nav a{
+    text-decoration: none;
+    color: #000000;
+    padding: 10px;
+    
+}
+
+nav a:hover{
+    color: red;
+}
+
+img{
+    padding-top: 20px;
+}
+
+p{
+    font-size: 80%;
+    padding-top: 10px;
+}
